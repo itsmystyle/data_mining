@@ -1,0 +1,1 @@
+python3 r07922141_apriori.py $1 $2 $3
