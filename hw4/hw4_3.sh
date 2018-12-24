@@ -1,0 +1,1 @@
+python r07922141_income.py D $1 $2 $3
